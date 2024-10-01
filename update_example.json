@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 255036814,
+            "message": {
+                "message_id": 455,
+                "from": {
+                    "id": 5121827372,
+                    "is_bot": false,
+                    "first_name": "\u0418\u0432\u0430\u043d",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 5121827372,
+                    "first_name": "\u0418\u0432\u0430\u043d",
+                    "type": "private"
+                },
+                "date": 1727798648,
+                "text": "hello"
+            }
+        },
+        {
+            "update_id": 255036815,
+            "message": {
+                "message_id": 457,
+                "from": {
+                    "id": 5121827372,
+                    "is_bot": false,
+                    "first_name": "\u0418\u0432\u0430\u043d",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 5121827372,
+                    "first_name": "\u0418\u0432\u0430\u043d",
+                    "type": "private"
+                },
+                "date": 1727799556,
+                "text": "\u043f\u0440\u0438\u0432\u0435\u0442"
+            }
+        }
+    ]
+}
